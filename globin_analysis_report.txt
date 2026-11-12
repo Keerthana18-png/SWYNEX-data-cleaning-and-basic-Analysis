@@ -1,0 +1,24 @@
+SWYNEX TASK 2 - GLOBIN ANALYSIS
+========================================
+
+Total protein sequences: 5
+
+Protein 1
+Header: >sp|P01958|HBA_HORSE Hemoglobin subunit alpha OS=Equus caballus OX=9796 GN=HBA PE=1 SV=2
+Sequence length: 142
+
+Protein 2
+Header: >sp|P02100|HBE_HUMAN Hemoglobin subunit epsilon OS=Homo sapiens OX=9606 GN=HBE1 PE=1 SV=2
+Sequence length: 147
+
+Protein 3
+Header: >sp|P02104|HBE_MOUSE Hemoglobin subunit epsilon-Y2 OS=Mus musculus OX=10090 GN=Hbb-y PE=1 SV=2
+Sequence length: 147
+
+Protein 4
+Header: >sp|P02112|HBB_CHICK Hemoglobin subunit beta OS=Gallus gallus OX=9031 GN=HBB PE=1 SV=2
+Sequence length: 147
+
+Protein 5
+Header: >sp|Q90486|HBB1_DANRE Hemoglobin subunit beta-1 OS=Danio rerio OX=7955 GN=ba1 PE=1 SV=3
+Sequence length: 148
